@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-web/static/css/main.6e8baf76.css",
-    "main.js": "/my-web/static/js/main.822adb3f.js",
-    "static/js/453.f50e4c12.chunk.js": "/my-web/static/js/453.f50e4c12.chunk.js",
-    "index.html": "/my-web/index.html",
-    "main.6e8baf76.css.map": "/my-web/static/css/main.6e8baf76.css.map",
-    "main.822adb3f.js.map": "/my-web/static/js/main.822adb3f.js.map",
-    "453.f50e4c12.chunk.js.map": "/my-web/static/js/453.f50e4c12.chunk.js.map"
+    "main.css": "/DilHub27/my-web.git/static/css/main.6e8baf76.css",
+    "main.js": "/DilHub27/my-web.git/static/js/main.b951dd5e.js",
+    "static/js/453.f50e4c12.chunk.js": "/DilHub27/my-web.git/static/js/453.f50e4c12.chunk.js",
+    "index.html": "/DilHub27/my-web.git/index.html",
+    "main.6e8baf76.css.map": "/DilHub27/my-web.git/static/css/main.6e8baf76.css.map",
+    "main.b951dd5e.js.map": "/DilHub27/my-web.git/static/js/main.b951dd5e.js.map",
+    "453.f50e4c12.chunk.js.map": "/DilHub27/my-web.git/static/js/453.f50e4c12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e8baf76.css",
-    "static/js/main.822adb3f.js"
+    "static/js/main.b951dd5e.js"
   ]
 }
